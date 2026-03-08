@@ -52,23 +52,5 @@
     "mediaType": "video",
     "github_url": "https://github.com/kinai9661/apie/blob/main/videos/2026-03-08T07-16-32-288Z-idjawcy0d.mp4",
     "uploadDate": "2026-03-08T07:16:35.651Z"
-  },
-  {
-    "id": "1772940418777",
-    "filename": "uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-    "url": "https://raw.githubusercontent.com/kinai9661/apie/9e4d3d60ec643b9e7ff7c94c08d11280036e5883/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-    "urls": {
-      "github": "https://github.com/kinai9661/apie/blob/main/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-      "raw": "https://raw.githubusercontent.com/kinai9661/apie/main/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/kinai9661/apie@main/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-      "github_commit": "https://github.com/kinai9661/apie/blob/9e4d3d60ec643b9e7ff7c94c08d11280036e5883/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-      "raw_commit": "https://raw.githubusercontent.com/kinai9661/apie/9e4d3d60ec643b9e7ff7c94c08d11280036e5883/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-      "jsdelivr_commit": "https://cdn.jsdelivr.net/gh/kinai9661/apie@9e4d3d60ec643b9e7ff7c94c08d11280036e5883/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg"
-    },
-    "size": 137103,
-    "type": "image/jpeg",
-    "mediaType": "image",
-    "github_url": "https://github.com/kinai9661/apie/blob/main/uploads/2026-03-08T03-26-56-540Z-nazlrkfs0.jpg",
-    "uploadDate": "2026-03-08T03:26:58.777Z"
   }
 ]
