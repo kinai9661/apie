@@ -16,23 +16,5 @@
     "mediaType": "image",
     "github_url": "https://github.com/kinai9661/apie/blob/main/uploads/2026-03-08T01-05-50-633Z-p3wikiuzf.jpg",
     "uploadDate": "2026-03-08T01:05:52.981Z"
-  },
-  {
-    "id": "1772924520727",
-    "filename": "uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-    "url": "https://cdn.jsdelivr.net/gh/kinai9661/apie@67a7b03d1e3e29b95291b7b72cc0dbcdd6d658c8/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-    "urls": {
-      "github": "https://github.com/kinai9661/apie/blob/main/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-      "raw": "https://raw.githubusercontent.com/kinai9661/apie/main/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/kinai9661/apie@main/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-      "github_commit": "https://github.com/kinai9661/apie/blob/67a7b03d1e3e29b95291b7b72cc0dbcdd6d658c8/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-      "raw_commit": "https://raw.githubusercontent.com/kinai9661/apie/67a7b03d1e3e29b95291b7b72cc0dbcdd6d658c8/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-      "jsdelivr_commit": "https://cdn.jsdelivr.net/gh/kinai9661/apie@67a7b03d1e3e29b95291b7b72cc0dbcdd6d658c8/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg"
-    },
-    "size": 108214,
-    "type": "image/jpeg",
-    "mediaType": "image",
-    "github_url": "https://github.com/kinai9661/apie/blob/main/uploads/2026-03-07T23-01-59-055Z-xpvr2a060.jpg",
-    "uploadDate": "2026-03-07T23:02:00.727Z"
   }
 ]
