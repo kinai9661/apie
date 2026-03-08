@@ -36,24 +36,6 @@
     "uploadDate": "2026-03-07T23:02:00.727Z"
   },
   {
-    "id": "1772923158604",
-    "filename": "videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-    "url": "https://cdn.jsdelivr.net/gh/kinai9661/apie@223739ac9473cc545423ff067b5027f388d90654/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-    "urls": {
-      "github": "https://github.com/kinai9661/apie/blob/main/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-      "raw": "https://raw.githubusercontent.com/kinai9661/apie/main/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/kinai9661/apie@main/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-      "github_commit": "https://github.com/kinai9661/apie/blob/223739ac9473cc545423ff067b5027f388d90654/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-      "raw_commit": "https://raw.githubusercontent.com/kinai9661/apie/223739ac9473cc545423ff067b5027f388d90654/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-      "jsdelivr_commit": "https://cdn.jsdelivr.net/gh/kinai9661/apie@223739ac9473cc545423ff067b5027f388d90654/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4"
-    },
-    "size": 2469474,
-    "type": "video/mp4",
-    "mediaType": "video",
-    "github_url": "https://github.com/kinai9661/apie/blob/main/videos/2026-03-07T22-39-15-655Z-qykoo436k.mp4",
-    "uploadDate": "2026-03-07T22:39:18.604Z"
-  },
-  {
     "id": "1772898321943",
     "filename": "videos/2026-03-07T15-45-18-795Z-2i5xpygst.mp4",
     "url": "https://cdn.jsdelivr.net/gh/kinai9661/apie@8871fd65c8c92430701386dd29506495b3d8985f/videos/2026-03-07T15-45-18-795Z-2i5xpygst.mp4",
